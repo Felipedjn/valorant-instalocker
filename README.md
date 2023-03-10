@@ -23,3 +23,8 @@ Motivo: o antivirus exclui alguns arquivos que são essenciais para o programa. 
 - Quando começar a puxar a partida, escolha o agente e clique no nome dele
 - Assim que clicado, o programa entrará em funcionamento
 - Quando o agente for escolhido, fique apertando "P" repetidamente até o script parar
+
+## Video como instalar/usar
+
+https://user-images.githubusercontent.com/114688883/224380107-f74f23a9-2b0c-4a2f-a9a9-85fafeb2f98d.mp4
+
