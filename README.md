@@ -6,7 +6,8 @@ GEKKO ja incluso
 
 # Padrões necessários
 - 1080p
-- Desativar o antivirus antes de iniciar o exe. Motivo: o antivirus exclui alguns arquivos que são essenciais para o programa.
+- Desativar o antivirus antes de iniciar o exe. 
+Motivo: o antivirus exclui alguns arquivos que são essenciais para o programa. https://www.defcon-lab.org/se-python-entao-virus/
 - Ter todos os agentes habilitados
 
 # Uso
@@ -19,3 +20,6 @@ GEKKO ja incluso
 - Quando começar a puxar a partida, escolha o agente e clique no nome dele
 - Assim que clicado, o programa entrará em funcionamento
 - Quando o agente for escolhido, fique apertando "P" repetidamente até o script parar
+
+
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Felipedjn/valorant-instalocker/blob/main/LICENSE)
