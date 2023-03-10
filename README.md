@@ -1,4 +1,7 @@
 # Valorant-InstaLocker
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Felipedjn/valorant-instalocker/blob/main/LICENSE)
+
+
 Atualizado 10/03/2023
 GEKKO ja incluso
 
@@ -20,6 +23,3 @@ Motivo: o antivirus exclui alguns arquivos que são essenciais para o programa. 
 - Quando começar a puxar a partida, escolha o agente e clique no nome dele
 - Assim que clicado, o programa entrará em funcionamento
 - Quando o agente for escolhido, fique apertando "P" repetidamente até o script parar
-
-
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/Felipedjn/valorant-instalocker/blob/main/LICENSE)
